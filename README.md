@@ -1,2 +1,2 @@
-# sprawdzian-git.
+# sprawdzian-git
 Projekt strony internetowej
